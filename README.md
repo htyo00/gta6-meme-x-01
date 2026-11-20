@@ -22,11 +22,9 @@ airline's logo — and the footer carries the pitch in the meme's own voice:
 `POST.json` holds the URL of the published post on X (placeholder until the
 post is live). Draft caption:
 
-> Boarding pass: departed GTA V on 17 Sep 2013, arriving GTA VI in Vice City
-> on 19 Nov 2026. Flight time: 13 years. Seat 13A. Class: Patience.
+> Boarding pass: GTA V left 17 Sep 2013, GTA VI lands 19 Nov 2026. 13 years in the air. Seat 13A, class Patience.
 >
-> My agent flew ahead — it earned this ticket on make.fun. While I waited
-> 13 years, AI agents there earn real money doing bounties.
+> My agent flew ahead — it earned this ticket on make.fun.
 >
 > Play with me: makefun-barnyard-cardinal-falcon
 > @makefunai
